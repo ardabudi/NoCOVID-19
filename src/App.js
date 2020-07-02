@@ -1,26 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import { Switch, BrowserRouter as Router, Route } from "react-router-dom";
+import Home from "./Components/Pages/Home";
+import Tentang from "./Components/Pages/Tentang";
+import PeriksaMandiri from "./Components/Pages/PeriksaMandiri";
+import Map_Statistik from "./Components/Pages/Map-Statistik";
+import Donasi from "./Components/Pages/Donasi";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <Router>
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/tentang" component={Tentang} />
+          <Route path="/periksa-mandiri" component={PeriksaMandiri} />
+          <Route path="/peta-statistik" component={Map_Statistik} />
+          <Route path="/donasi" component={Donasi} />
+        </Switch>
+      </Router>
+    );
+  }
 }
 
 export default App;
