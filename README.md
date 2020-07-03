@@ -79,9 +79,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Screenshot
 
-![screencapture-localhost-3000-2020-07-03-20_16_07](https://user-images.githubusercontent.com/42709965/86475119-55b1f680-bd6e-11ea-8c32-43f0bdb9437f.png)
+![screencapture-localhost-3000-2020-07-03-20_16_07](https://user-images.githubusercontent.com/42709965/86475452-e4267800-bd6e-11ea-82be-992d00335365.png)
+<br/>
 ![screencapture-localhost-3000-tentang-2020-07-03-20_16_25](https://user-images.githubusercontent.com/42709965/86475141-5ea2c800-bd6e-11ea-93d3-fd219ab642b0.png)
+<br/>
 ![screencapture-localhost-3000-periksa-mandiri-2020-07-03-20_16_39](https://user-images.githubusercontent.com/42709965/86475181-724e2e80-bd6e-11ea-8ad1-1eca5aa02224.png)
+<br/>
 ![screencapture-localhost-3000-peta-statistik-2020-07-03-20_17_54](https://user-images.githubusercontent.com/42709965/86475188-75491f00-bd6e-11ea-9990-386d7532dc48.png)
 ![screencapture-localhost-3000-donasi-2020-07-03-20_18_15](https://user-images.githubusercontent.com/42709965/86475197-78440f80-bd6e-11ea-82e6-3968bfdf95d0.png)
 
