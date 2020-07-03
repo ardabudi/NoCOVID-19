@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# NoCOVID-19
+
+## Start
+
+```
+git clone https://github.com/ardabudi/NoCOVID-19.git
+cd NoCOVID-19
+npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +76,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Screenshot
+
+![screencapture-localhost-3000-2020-07-03-20_16_07](https://user-images.githubusercontent.com/42709965/86475119-55b1f680-bd6e-11ea-8c32-43f0bdb9437f.png)
+![screencapture-localhost-3000-tentang-2020-07-03-20_16_25](https://user-images.githubusercontent.com/42709965/86475141-5ea2c800-bd6e-11ea-93d3-fd219ab642b0.png)
+![screencapture-localhost-3000-periksa-mandiri-2020-07-03-20_16_39](https://user-images.githubusercontent.com/42709965/86475181-724e2e80-bd6e-11ea-8ad1-1eca5aa02224.png)
+![screencapture-localhost-3000-peta-statistik-2020-07-03-20_17_54](https://user-images.githubusercontent.com/42709965/86475188-75491f00-bd6e-11ea-9990-386d7532dc48.png)
+![screencapture-localhost-3000-donasi-2020-07-03-20_18_15](https://user-images.githubusercontent.com/42709965/86475197-78440f80-bd6e-11ea-82e6-3968bfdf95d0.png)
+
